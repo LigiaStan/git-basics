@@ -5,5 +5,7 @@ public class Main {
         String helloVar = "Hello World!";
 
         System.out.println(helloVar);
+
+        System.out.println(helloVar);
     }
 }
